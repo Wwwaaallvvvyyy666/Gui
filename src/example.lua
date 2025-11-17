@@ -1,5 +1,4 @@
---[[ 🔔 Example New GUI For Roblox 🔔 ]]  
-local Triplesixxx = loadstring(game:HttpGet("https://raw.githubusercontent.com/Wwwaaallvvvyyy666/Gui/main/src/main.lua"))()
+local Triplesixxx = loadstring(game:HttpGet("https://pastefy.app/j3txr34B/raw"))()
 
 local Window = Triplesixxx:Window({
     Title   = "Triplesixxx | Example",
